@@ -1,0 +1,1 @@
+eq=contrast=1.06:brightness=-0.015:saturation=1.02,colorbalance=rs=-0.015:gs=0.012:bs=0.012:rm=0.04:gm=0.018:bm=-0.04:rh=0.04:gh=0.025:bh=-0.065,vignette=PI/7

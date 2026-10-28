@@ -1,0 +1,1 @@
+colorchannelmixer=rr=0.95:gg=0.99:bb=1.05,eq=contrast=1.06:gamma=1.12:saturation=1.0,colorbalance=rs=-0.02:bs=0.02,vignette=PI/8
